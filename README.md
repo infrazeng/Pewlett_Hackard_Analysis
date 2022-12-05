@@ -20,5 +20,4 @@ Pewlett Hackard needs to prepare ahead for vacancies and we need to understand h
 
 ## Summary
 
-• From the data gathered from the unique_titles table, a little over 90,000 positions will need to be filled as employees retire
-• Many of those retiring are in senior positions and so they will need to train large amounts of younger employees before they retire.
+From the data gathered from the unique_titles table, a little over 90,000 positions will need to be filled as employees retire. Many of those retiring are in senior positions and so they will need to train large amounts of younger employees to fill their roles before they retire. This analysis demonstrates the need for companies to predict not only potential problems with labor, but with other sectors of their business as well.
