@@ -1,5 +1,10 @@
 # Pewlett Hackard Analysis
 
+## Tool Used
+• SQL
+
+• PGAdmin
+
 ## Purpose and Overview
 
 Pewlett Hackard needs to prepare ahead for vacancies and we need to understand how many people will be retiring in the next year and who. To perform this analysis, we used SQL, QuickDBD and PGAdmin to identify employees who were nearing retirement age and then organize that into a list by department and title. This way, the company can see which departments will be most affected and then prepare for the upcoming change.
