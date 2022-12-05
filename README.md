@@ -1,6 +1,6 @@
 # Pewlett Hackard Analysis
 
-## Tool Used
+## Tools Used
 • SQL
 
 • PGAdmin
