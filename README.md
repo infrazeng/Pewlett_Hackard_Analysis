@@ -21,10 +21,13 @@ By leveraging the power of data analysis and utilizing tools such as SQL, QuickD
 
 ### Deliverable 1: 
 • The first list of retiring employees shows more than 133,000 results. However, many of the names are repeated since the employees may have held many positions
+
 ![](/Resources/retirement_titles.png)
 • When we apply the SELECT DISTINCT ON function with the employee number, we find that the list of retiring employees shrinks down to about 90,000
+
 ![](/Resources/unique_titles.png)
-• From there, we filtered the data to find out which titles were going to see the most amount of employees retiring. These were the results
+• From there, we filtered the data to find out which titles were going to see the most amount of employees retiring. These were the results:
+
 ![](/Resources/retiring_titles.png)
 
 ### Deliverable 2:
